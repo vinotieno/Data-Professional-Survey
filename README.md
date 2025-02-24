@@ -10,7 +10,7 @@
 - Results/Findings
 - Recommendation
 - Technical Implementation
-- Rferences
+- References
 
 ### Project Overview
 - This project analyzes survey responses from data professionals to uncover trends in salary distribution, job satisfaction, career transitions,demographics(Gender, Ethnicity) etc. 
