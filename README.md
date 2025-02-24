@@ -56,6 +56,12 @@ Q6 - How Happy are you in your Current Position with the following? (Work/Life B
 [Data Professional Survey Takers.pdf](https://github.com/user-attachments/files/18940786/Data.Professional.Survey.Takers.pdf)
 
 
+![Chart4](https://github.com/user-attachments/assets/323b6bf9-e950-4687-a4eb-637d54c879d7)
+
+
+
+
+
 ### Results and Findings
 
 
