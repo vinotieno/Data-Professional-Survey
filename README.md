@@ -50,10 +50,14 @@ Q6 - How Happy are you in your Current Position with the following? (Work/Life B
     - Whats the average number of people who are happy with there current salary?
     - Whats the average number of people who are happy with work/life balance?
     - Which Country do you live in?
-  
 
+  
   ### Data Visualization
 [Data Professional Survey Takers.pdf](https://github.com/user-attachments/files/18940786/Data.Professional.Survey.Takers.pdf)
+
+
+
+
 
 
 ![Chart4](https://github.com/user-attachments/assets/323b6bf9-e950-4687-a4eb-637d54c879d7)
@@ -63,11 +67,29 @@ Q6 - How Happy are you in your Current Position with the following? (Work/Life B
 
 
 ### Results and Findings
+- The total number of data professional individual who participated in this survey is 630.
+- The Avereage Age of these survey takers was 29 year old.
+- Based on the results,majority of students pursuing a Bachelor's degree prefer learning Python over other programming languages.
+- So many people are not happy with there current salary. This is evident in the analysis where the majority are in the average of 4.27 (In a scale of 1-10)
+- The probability of people who are happy and not happy with there work/life balance is equal.
+- Based on the results,data scientist are the highest paid data professionals with an average salary of 94 usd.
+  
 
+### Recommendation
+- Based on the analysis, I would recommed the following actions:
+    - Encourage continuous learning and upskilling programs.
+    - Focus on career growth opportunities to improve employee retention.
+    - Encourage organizations to offer structured internships & apprenticeships for new graduates,Provide on-the-job training for career switchers so that they dont find 
+      difficulties breaking into the new fields.
+    - Encourage organizations to Partner with universities, coding bootcamps, and scholarship programs to create entry pathways.
 
+### Technical Implementation
+- Power query commands
+- Power BI Charts
 
-
-
+### References
+1. Data Analysis with Excel by Kenji Explains
+2. Data Analysis With Excel By Pavan Lalwani  
 
 
 
