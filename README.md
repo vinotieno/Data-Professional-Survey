@@ -53,14 +53,16 @@ Q6 - How Happy are you in your Current Position with the following? (Work/Life B
 
   
   ### Data Visualization
-[Data Professional Survey Takers.pdf](https://github.com/user-attachments/files/18940786/Data.Professional.Survey.Takers.pdf)
+
+[Data Professional Survey Takers.pdf](https://github.com/user-attachments/files/18943018/Data.Professional.Survey.Takers.pdf)
 
 
 
 
 
 
-![Chart4](https://github.com/user-attachments/assets/323b6bf9-e950-4687-a4eb-637d54c879d7)
+
+![Chart5](https://github.com/user-attachments/assets/76bf8c04-5668-40ba-bffb-5c7e66cadfd3)
 
 
 
