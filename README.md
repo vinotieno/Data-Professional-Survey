@@ -1,5 +1,5 @@
 # Data-Professional-Survey
-## This power project focuses in analyzing survey responses from data professionals.
+## This power bi project focuses in analyzing survey responses from data professionals all over the world.
 ### Table of contents
 - Project Overview
 - Data Sources
@@ -14,7 +14,15 @@
 
 ### Project Overview
 - This project analyzes survey responses from data professionals to uncover trends in salary distribution, job satisfaction, career transitions,demographics(Gender, Ethnicity) etc. 
-- The goal is to provide valuable insights into the data industry and instituition, including challenges faced by data professionals and factors influencing job satisfaction.
+- The goal of this project is to:
+  - Help organizations and educational institutions develop policies and curricula that align with industry needs.
+  - Understand current trends in the data profession, including skills in demand, tools used, and industry shifts.
+  - Evaluate the skills and competencies of data professionals to identify gaps and areas for improvement.
+  - Analyze compensation data to provide insights into salary ranges based on location, and job roles.
+  - Assess the level of job satisfaction among data professionals and identify factors that contribute to it.
+  - Identify training and development needs based on the skills reported by professionals.
+ 
+ 
 - This analysis is performed using Power BI, with data exploration, visualization, and insights derived from various survey questions.
 
 ### Data Sources
